@@ -9,6 +9,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 //demo
 //demo3
+//demo4
 [assembly: AssemblyTitle("DemoLab6")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
